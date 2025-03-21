@@ -173,13 +173,13 @@ header img:hover {
 
 .feature p {
     font-size: 20px;
-    color: var (--secondary-color);
+    color: var(--secondary-color);
     max-width: 600px;
     margin: 10px auto;
     line-height: 1.8; /* Améliorer la lisibilité */
 }
 
-/* Text Section between Features and About */
+/* Text Section */
 .text-section {
     background-color: white; /* Changer la couleur de fond */
     padding: 40px 20px; /* Ajouter du padding */
